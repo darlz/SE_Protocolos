@@ -1,7 +1,7 @@
 # SE_Protocolos
 
 
-El Sistemas Experto ha sido desarrollado en Prolog, el mismo que ha permite contestar las siguientes preguntas relacionadas a los
+El Sistemas Experto ha sido desarrollado en Prolog, el mismo que permite contestar las siguientes preguntas relacionadas a los
 Protocolos para el retorno progresivo a las actividades laborales durante la emergencia del Covid-19.
 
 
